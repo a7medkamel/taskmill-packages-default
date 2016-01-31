@@ -1,5 +1,5 @@
 {
-  "name": "packages",
+  "name": "taskmill-packages-default",
   "dependencies": {
     "apn": "^1.7.5",
     "archy": "^1.0.0",
