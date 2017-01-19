@@ -41,7 +41,6 @@
     "fast-stats": "0.0.3",
     "firebase": "^3.3.0",
     "gauss": "^0.2.12",
-    "gcloud": "^0.37.0",
     "github": "^2.6.0",
     "gm": "^1.23.0",
     "graphicsmagick-stream": "^2.1.2",
